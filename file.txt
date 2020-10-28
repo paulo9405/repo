@@ -2,3 +2,4 @@ Linha 1
 Linha 2
 Linha 3
 função envia email
+   correção na função de enviar email
